@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	border:2px solid #09C;
+	background-color: rgb(43, 132, 235);
+	height:250px;
+	width:100%;
+	
+}
+.header2{
+	text-align:center;
+	font-size:70px;
+	color:rgb(255, 255, 255);
+	font-family:Arial, Helvetica, sans-serif;
+}
+.header3{
+	text-align:center;
+	font-size:16px;
+	color:#FFF;
+	font-family:Monaco;
+	padding-top:-20px;
+}
+
+
+<style>
+body {margin:0;}
+
+.topnav {
+	margin-left:40px;
+  overflow: hidden;
+ 
+  height:80px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+</style>
+
+
+<style>
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #00C;
+}
+
+.Secondbar a {
+  float: left;
+  color: #1e4cc9;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.Secondbar a:hover {
+  background-color: rgb(0, 128, 255);
+  color: black;
+  
+}
+
+.Secondbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+footer{
+background-color: dimgray;  
+color: dimgrey;
+
+
+
+
+}
+.ull{
+  text-align: left;
+  list-style-type: none;
+  font-style: normal;
+  margin: 0;
+  font-size: 5px;
+  color: dimgray;
+
+
+
+
+
+
+
+
+}
+
+</style>
