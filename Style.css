@@ -95,5 +95,37 @@ color: dimgrey;
 
 
 }
+footer {
+  background-color: rgb(59, 59, 59);
+  color: white;
+  height: 1400px;
+  width: 2000px;
+}
+.ull {
+  text-align: left; 
+  list-style-type: none;
+  font-style: normal;  
+  margin: 0;
+  font-size: 5px;
+  color: grey;
+}
+#big {
+font-size: 20px;
+color: white;
+}
+.btn-b {
+  
+  color: steelblue;
+  border-top-color: steelblue;
+  background-color:white;
+  position: relative;
+  left:-530px;
+  padding: 12px 28px;
+}
+#bottom {
+  font-style: normal;
+  position: relative;
+  left: 200px;
+}
 
 </style>
